@@ -1,7 +1,3 @@
-Here's a sample `README.md` for a GitHub repository containing all the scripts discussed. You can name the repository **"DevOps-Bash-Scripts"**.
-
----
-
 # DevOps-Bash-Scripts
 
 Welcome to the **DevOps-Bash-Scripts** repository! This collection of bash scripts is designed to help automate common tasks in a DevOps environment. Each script is crafted to address specific needs, from system monitoring to user management and application deployment.
